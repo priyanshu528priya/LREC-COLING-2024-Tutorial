@@ -1,1 +1,12 @@
-This repository contains the Reading List for the tutorial proposal **Knowledge-enhanced Response Generation in Dialogue Systems: Current Advancements and Emerging Horizons**
+This repository contains the Reading List for the tutorial proposal **Knowledge-enhanced Response Generation in Dialogue Systems: Current Advancements and Emerging Horizons**.
+
+1. M. Firdaus, A. Ekbal and P. Bhattacharyya (2022). PoliSe: Reinforcing Politeness using User Sentiment for Customer Care Response Generation. In 29th International Conference on Computational Linguistics (COLING), October 12-17, Korea (accepted) (Core-A; h5-index: 58)  
+2. D. Varshney, A. Prabhakar and A. Ekbal (2022). Commonsense and Named Entity Aware Knowledge Grounded Dialogue Generation. In Proceedings of NAACL-HLT 2022, 1322-1335, July 10-15, USA (Core-A; h5-index: 105)  
+3. Zishan Ahmad, Asif Ekbal, Subhashish Sengupta , Pushpak Bhattachharyya (2022). Neural Response Generation for Task Completion using Conversational Knowledge Graph, PLosOne.
+4. M. Firdaus, N. Thangavelu, A. Ekbal and P. Bhattacharyya (2022). I enjoy writing and playing, do you?: A Personalized and Emotion Grounded Dialogue Agent using Generative Adversarial Network. In IEEE Transaction on Affective Computing, doi: 10.1109/TAFFC.2022.3155105 (Impact factor- 10.305).  
+5. Kshitij Mishra, Mauajama Firdaus and Asif Ekbal (2022). Please be Polite: Towards building a Politeness Adaptive Dialogue System for Goal-oriented Conversations, Neurocomputing, 94, 242-254, Elsevier (IF-5.719; h5 index: 123).  
+6. K. Misra, M. Firdaus, A. Ekbal (2022). Predicting politeness variations in Goal-oriented Conversations. IEEE Transaction on Computational Social System, IEEE, doi: 10.1109/TCSS.2022.3156580 (IF-4.747; h5 index: 44).  
+7. Gopendra Vikram Singh, Mauajama Firdaus, Shambhavi, Shruti Mishra, Asif Ekbal (2022). Knowing What to Say: Towards knowledge grounded code-mixed response generation for open-domain conversations. Knowledge Based System, Elsevier, 249: 108900 (2022) (IF: 8.038; h5 index: 107).  
+8. Mauajama Firdaus, Nidhi Thakur, Asif Ekbal (2022). Sentiment Guided Aspect Conditioned Dialogue Generation in a Multimodal System. In Proc. of ECIR (1) 2022: 199-214 (Core-A)  
+9. Firdaus, H. Chauhan, A. Ekbal and P. Bhattacharyya (2021). More the Merrier: Towards Multi-Emotion and Intensity Controllable Response Generation. In Proceedings of AAAI 2021, PP. 12821-12829 (Core-A*; h5 index: 180)  
+10. D. Vershney, A. Ekbal and P. Bhattacharyya (2021). Modeling Context Emotions using Multi-task Learning for Emotion-Controlled Dialogue Generation. In Proceedings of EACL 2021, PP. 2919-2931 (Core-A; h5-index: 62)  
