@@ -1,11 +1,19 @@
 # **[Reading List] Knowledge-enhanced Response Generation in Dialogue Systems: Current Advancements and Emerging Horizons** 
 
-### Survey
-- [A survey on dialogue systems: Recent advances and new frontiers.](https://dl.acm.org/doi/pdf/10.1145/3166054.3166058). Hongshen Chen, Xiaorui Liu, Dawei Yin, and Jiliang Tang. 2017. **Acm Sigkdd Explorations**
-- [A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf). Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. **ACM Comput. Surv.**
+## Survey
+- [A survey on dialogue systems: Recent advances and new frontiers.](https://dl.acm.org/doi/pdf/10.1145/3166054.3166058). Hongshen Chen, Xiaorui Liu, Dawei Yin, and Jiliang Tang. 2017. ***Acm Sigkdd Explorations***
+- [A survey on empathetic dialogue systems] (https://www.sciencedirect.com/science/article/pii/S1566253520303092). Yukun Ma a, Khanh Linh Nguyen, Frank Z. Xing, Erik Cambria. ***Information Fusion2020***
+- [A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf). Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. ***ACM Comput. Surv.***
 - [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
 
-## Basic papers
+## Knowledge-enhanced Response Generation
+- [Knowledge Enhanced Reflection Generation for Counseling Dialogues] (https://aclanthology.org/2022.acl-long.221/). Siqi Shen, Veronica Perez-Rosas, Charles Welch, Soujanya Poria, Rada Mihalcea. ***ACL 2022***
+- [DialoKG: Knowledge-Structure Aware Task-Oriented Dialogue Generation] (https://aclanthology.org/2022.findings-naacl.195.pdf). Md Rashad Al Hasan Rony, Ricardo Usbeck, Jens Lehmann  ***NAACl 2022***
+- [MedDialog: Large-scale medical dialogue datasets] (https://aclanthology.org/2020.emnlp-main.743.pdf). Guangtao Zeng, Wenmian Yang, Zeqian Ju, Yue Yang, Sicheng Wang, Ruisi Zhang, Meng Zhou, Jiaqi Zeng, Xiangyu Dong, Ruoyu Zhang, Hongchao Fang, Penghui Zhu, Shu Chen and Pengtao Xie. ***EMNLP 2020***. 
+- [Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3079.pdf). Karthik Gopalakrishnan, Behnam Hedayatnia, Qinlang Chen, Anna Gottardi, Sanjeev Kwatra, Anu Venkatesh, Raefer Gabriel and Dilek Hakkani-Tür. ***Interspeech 2019***.
+
+
+### Basic papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762). Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin. ***NeurIPS 2017***.
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). Ilya Sutskever, Oriol Vinyals and Quoc V. Le. ***NeurIPS 2014***.
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473). Dzmitry Bahdanau, Kyunghyun Cho and Yoshua Bengio. ***ICLR 2015***.
@@ -13,9 +21,7 @@
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368). Abigail See, Peter J. Liu and Christopher D. Manning. ***ACL 2017***.
 
 
-
-
-### Relevant Publications from AI-NLP-ML Group
+## Relevant Publications from AI-NLP-ML Group
 
 - Gitanjali Kumari, Pranali Shindey, Asif Ekbal. The Persuasive Memescape: Understanding Effectiveness and Societal Implications of Internet Memes. In the main conference AACL-IJCNLP 2023.
 - Mauajama Firdaus, Priyanshu Priya, Asif EKbal. Mixing It Up: Inducing Empathy and Politeness using Multiple Behaviour-aware Generators for Conversational Systems. In Findings AACL-IJCNLP 2023.
