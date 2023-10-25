@@ -2,14 +2,14 @@
 
 ## Survey
 - [A survey on dialogue systems: Recent advances and new frontiers.](https://dl.acm.org/doi/pdf/10.1145/3166054.3166058). Hongshen Chen, Xiaorui Liu, Dawei Yin, and Jiliang Tang. 2017. ***Acm Sigkdd Explorations***
-- [A survey on empathetic dialogue systems] (https://www.sciencedirect.com/science/article/pii/S1566253520303092). Yukun Ma a, Khanh Linh Nguyen, Frank Z. Xing, Erik Cambria. ***Information Fusion2020***
+- [A survey on empathetic dialogue systems](https://www.sciencedirect.com/science/article/pii/S1566253520303092). Yukun Ma a, Khanh Linh Nguyen, Frank Z. Xing, Erik Cambria. ***Information Fusion2020***
 - [A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf). Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. ***ACM Comput. Surv.***
 - [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
 
 ## Knowledge-enhanced Response Generation
-- [Knowledge Enhanced Reflection Generation for Counseling Dialogues] (https://aclanthology.org/2022.acl-long.221/). Siqi Shen, Veronica Perez-Rosas, Charles Welch, Soujanya Poria, Rada Mihalcea. ***ACL 2022***
-- [DialoKG: Knowledge-Structure Aware Task-Oriented Dialogue Generation] (https://aclanthology.org/2022.findings-naacl.195.pdf). Md Rashad Al Hasan Rony, Ricardo Usbeck, Jens Lehmann  ***NAACl 2022***
-- [MedDialog: Large-scale medical dialogue datasets] (https://aclanthology.org/2020.emnlp-main.743.pdf). Guangtao Zeng, Wenmian Yang, Zeqian Ju, Yue Yang, Sicheng Wang, Ruisi Zhang, Meng Zhou, Jiaqi Zeng, Xiangyu Dong, Ruoyu Zhang, Hongchao Fang, Penghui Zhu, Shu Chen and Pengtao Xie. ***EMNLP 2020***. 
+- [Knowledge Enhanced Reflection Generation for Counseling Dialogues](https://aclanthology.org/2022.acl-long.221/). Siqi Shen, Veronica Perez-Rosas, Charles Welch, Soujanya Poria, Rada Mihalcea. ***ACL 2022***
+- [DialoKG: Knowledge-Structure Aware Task-Oriented Dialogue Generation](https://aclanthology.org/2022.findings-naacl.195.pdf). Md Rashad Al Hasan Rony, Ricardo Usbeck, Jens Lehmann  ***NAACl 2022***
+- [MedDialog: Large-scale medical dialogue datasets](https://aclanthology.org/2020.emnlp-main.743.pdf). Guangtao Zeng, Wenmian Yang, Zeqian Ju, Yue Yang, Sicheng Wang, Ruisi Zhang, Meng Zhou, Jiaqi Zeng, Xiangyu Dong, Ruoyu Zhang, Hongchao Fang, Penghui Zhu, Shu Chen and Pengtao Xie. ***EMNLP 2020***. 
 - [Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3079.pdf). Karthik Gopalakrishnan, Behnam Hedayatnia, Qinlang Chen, Anna Gottardi, Sanjeev Kwatra, Anu Venkatesh, Raefer Gabriel and Dilek Hakkani-Tür. ***Interspeech 2019***.
 
 
