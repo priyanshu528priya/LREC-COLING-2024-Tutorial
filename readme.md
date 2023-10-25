@@ -13,7 +13,7 @@
 - [Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3079.pdf). Karthik Gopalakrishnan, Behnam Hedayatnia, Qinlang Chen, Anna Gottardi, Sanjeev Kwatra, Anu Venkatesh, Raefer Gabriel and Dilek Hakkani-Tür. ***Interspeech 2019***.
 
 
-### Basic papers
+## Basic papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762). Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin. ***NeurIPS 2017***.
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). Ilya Sutskever, Oriol Vinyals and Quoc V. Le. ***NeurIPS 2014***.
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473). Dzmitry Bahdanau, Kyunghyun Cho and Yoshua Bengio. ***ICLR 2015***.
@@ -21,7 +21,7 @@
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368). Abigail See, Peter J. Liu and Christopher D. Manning. ***ACL 2017***.
 
 
-## Relevant Publications from AI-NLP-ML Group
+# Relevant Publications from AI-NLP-ML Group
 
 - Gitanjali Kumari, Pranali Shindey, Asif Ekbal. The Persuasive Memescape: Understanding Effectiveness and Societal Implications of Internet Memes. In the main conference AACL-IJCNLP 2023.
 - Mauajama Firdaus, Priyanshu Priya, Asif EKbal. Mixing It Up: Inducing Empathy and Politeness using Multiple Behaviour-aware Generators for Conversational Systems. In Findings AACL-IJCNLP 2023.
@@ -61,3 +61,7 @@
 - M. Firdaus, N. Thangavelu, A. Ekbal and P. Bhattacharyya (2020). Persona aware Response Generation with Emotions. In the 2020 International Joint Conference on Neural Networks (IJCNN), Glasgow, UK, July 2020.  
 - M. Firdaus, A. Kumar, A. Ekbal and P. Bhattacharyya (2019). A Multi-task Hierarchical Approach for Intent Detection and Slot Filling. Knowledge based Systems, Elsevier, ttps://doi.org/10.1016/j.knosys.2019.07.017.     
 - Hitesh Golchha, Mauajama Firdaus, Asif Ekbal, and Pushpak Bhattacharyya (2019). Courteously Yours: Inducing courteous behavior in Customer Care responses using Reinforced Pointer Generator Network. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 851-860. 2019.  
+
+# Brief CV of Presenters
+
+https://drive.google.com/file/d/1R18fIulin15fB6Vmxa3tzKHNCMQcLJxs/view?usp=sharing
